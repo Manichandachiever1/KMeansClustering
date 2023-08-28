@@ -10,6 +10,7 @@ The Client wants atleast top 5 Clusters(Shops).
 # Project Approach:
 
 ![image](https://github.com/Manichandachiever1/KMeansClustering/assets/127472257/09c86c23-b76a-4d9b-8faa-b6e782ff7403)
+# Project Methodology:
 ![image](https://github.com/Manichandachiever1/KMeansClustering/assets/127472257/f3033a09-5caf-4842-92cd-0eb7f0aac7f7)
 
 # Conclusion:
